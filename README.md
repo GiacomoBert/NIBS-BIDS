@@ -1,6 +1,4 @@
 # NIBS-BIDS
 Brain Imaging Data Structure (BIDS) is a common way to structure potentially any kind of neuroimaging data. Due to its intuitive and clear structure, it has been adopted in most neuroscientific fields as a common way to organize and share data that is compliant to the F.A.I.R. principles of open science.  More on: https://bids.neuroimaging.io/ . BIDS is continuously evolving, incorporating new fields and modality through community proposals.  We work in the field of non-invasive brain stimulation (NIBS), which is a modality not yet supported by BIDS. Current NIBS includes transcranial magnetic stimulation (TMS), transcranial electrical stimulation (tES, like tDCS, tACS, tRNS) and focused-ultrasound stimulation (FUS). Our project aims to build an official BIDS proposal on NIBS, that will help the whole field to structure and share data with a common framework. Me and my collaborators already wrote a BIDS proposal draft and structured a prototype of a NIBS-BIDS dataset, that you can find here: https://gin.g-node.org/CIMeC/TMS-EEG_brain_connectivity_BIDS/src/master 
 
-Gdrive --> https://drive.google.com/drive/folders/141tPlAoLxqvD-79rU4etKDdUtZsj_gE0?usp=sharing
-
-NIBS - BIDS proposal draft --> https://docs.google.com/document/d/147rKgsGVHnf85l61d9XVozyY41FakMqM/edit?usp=sharing&ouid=106340298805019411765&rtpof=true&sd=true
+NIBS - BIDS proposal draft --> coming soon! 
